@@ -37,7 +37,7 @@ Interactive convnet features visualization for Keras
 If you want the latest version from the repo
 
 ```bash
-    pip install git+git://github.com/keplr-io/quiver.git
+    pip install git+git://github.com/ahamemnon/quiver.git
 ```
 
 
