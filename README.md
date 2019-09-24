@@ -118,7 +118,7 @@ misc{bianquiver,
   author={Bian, Jake},
   year={2016},
   publisher={GitHub},
-  howpublished={\url{https://github.com/keplr-io/quiver}},
+  howpublished={\url{https://github.com/ahamemnon/quiver}},
 }
 ```
 
