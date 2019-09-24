@@ -2,7 +2,8 @@ import re
 from os.path import relpath, abspath
 from os import listdir
 
-from scipy.misc import imsave
+#from scipy.misc import imsave
+from imageio import imwrite as imsave
 from quiver_engine.util import deprocess_image
 
 def save_layer_img(layer_outputs, layer_name, idx, temp_folder, input_path):
